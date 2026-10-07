@@ -1,0 +1,6 @@
+{
+  "locked_at": "2026-10-05",
+  "n_test": 785,
+  "sha256_questions": "14ffaa7de68272d02371e2cc31a7afddce74c25f45458722818b6e61bb62ab81",
+  "policy": "test.locked.json records the sha256 of sorted test questions; regeneration with a different seed or data update must not silently change the test set. decontaminate_split.py refuses to overwrite a locked test set unless --force."
+}
